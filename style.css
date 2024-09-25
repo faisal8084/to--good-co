@@ -222,15 +222,15 @@ body{
   width: 14%;
   height: 100%;
   align-items: center;
-  padding: 50px;
+  padding:2vw;
   font-size: 20px;
 }
 .marker h3{
   font-weight: 400;
 }
 .thanks h1{
-  font-size: 74px;
-  padding: 20px 120px;
+  font-size: 10vh;
+  padding: 2vw 12vw;
   text-transform: uppercase;
   text-align: center;
   line-height: 1;
@@ -240,14 +240,12 @@ body{
 button{
   background-color: #111;
   color: #F7F7F7;
-  padding: 18px 50px;
-  border-radius: 18px;
-  position: absolute;
-  bottom: 5%;
-  font-size: 15px;
+  padding: 1.5vw 4vw;
+  border-radius: 3vh;
+  font-size: 2.5vh;
   font-weight: 600;
-  left: 40%;
   font-family: system-ui;
+  margin-left: 37vw;
 
 }
 #page5{
@@ -338,15 +336,14 @@ button{
   #video-container #play {
     padding: 9.5vw 6.5vw;
     background-color: black;
+    position: absolute;
     color: #fff;
     font-size: 6vw;
-    position: absolute;
-    opacity: 0;
-    scale: 0;
+    opacity:1;
+    scale: 1;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-
   }
   #page2 {
     height: 370vh;
