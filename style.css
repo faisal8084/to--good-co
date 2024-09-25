@@ -68,13 +68,13 @@ body{
 }
 
 #page1 h1 {
-  font-size: 15.2vw;
+  font-size: 14vw;
   text-transform: uppercase;
   line-height: 13vw;
   padding-left: 5vh;
   font-weight: 900;
-  font-family: system-ui, -apple-system;
   letter-spacing: -9px;
+  font-family: futura;
 }
 #line2{
   padding: 20px 30px;
